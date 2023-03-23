@@ -5,12 +5,11 @@
   font-size: 18px;
   line-height: 22px;
   color: #545454;
+  padding-top: 67px;
+  padding-bottom: 60px;
 }
 .footer__copyright {
   position: absolute;
-  width: 318px;
+  max-width: 318px;
   height: 18px;
-  left: 200px;
-  top: 1139px;
-  padding-bottom: 60px;
 }

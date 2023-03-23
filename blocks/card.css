@@ -51,9 +51,12 @@
   border: none;
 }
 
+.card__like-button:hover {
+  cursor: pointer;
+}
+
 /*@media screen and (max-width: 586px) {
   .card__list {
     padding: 15px 0 18px;
   }
-}
-*/
+}*/
