@@ -1,14 +1,29 @@
 .page {
   background-color: black;
   color: white;
+  margin-right: 200px;
+  margin-left: 200px;
 }
 .page__content {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  margin-left: 200px;
-  margin-right: 200px;
+  /*margin-left: 200px;
+  margin-right: 200px;*/
+}
+
+.page__section {
+  width: 100%;
+  max-width: 880px;
+  box-sizing: border-box;
+  position: relative;
+  padding-top: 50px;
+  /*margin: 0 auto;*/
 }
 
 @media screen and (max-width: 1100px) {
+  .page__section {
+    margin: 0 20px;
+    max-width: calc(100% - 40px);
+  }
 }
