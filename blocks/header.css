@@ -2,4 +2,10 @@
   margin-top: 45px;
   margin-bottom: 45pxpx;
   max-width: 880px;
+  border-bottom: 1px solid #545454;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 320px) {
+  /* styles for small smartphones */
 }
