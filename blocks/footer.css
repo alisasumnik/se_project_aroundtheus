@@ -1,10 +1,4 @@
 .footer__copyright {
-  position: absolute;
-  max-width: 318px;
-  height: 18px;
-}
-
-.footer__copyright {
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
