@@ -24,8 +24,7 @@
 }
 
 .profile__edit-button:hover {
-  background: transparent url(../images/edit-active.svg) center no-repeat;
-  opacity: 0.6px;
+  opacity: 30%;
 }
 
 .profile__add-button {
@@ -39,8 +38,7 @@
 }
 
 .profile__add-button:hover {
-  background: transparent url(../images/add-active.svg) center no-repeat;
-  opacity: 0.6px;
+  opacity: 30%;
 }
 
 .profile__title {

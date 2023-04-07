@@ -1,3 +1,8 @@
+.footer {
+  margin-top: 67px;
+  margin-bottom: 60px;
+}
+
 .footer__copyright {
   font-family: "Inter", sans-serif;
   font-style: normal;
@@ -8,7 +13,6 @@
   margin-top: 0;
   margin-bottom: 0;
 }
-
 @media screen and (max-width: 480px) {
   .footer {
     width: 282px;
